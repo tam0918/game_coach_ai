@@ -1,0 +1,23 @@
+# Flask and Web Server
+Flask
+Flask-Cors
+python-dotenv
+requests
+
+# Data Science and Machine Learning
+pandas
+scikit-learn
+torch
+torchaudio
+torchvision
+matplotlib
+seaborn
+joblib
+xgboost
+imblearn
+lightgbm
+sentence-transformers
+
+# Utilities
+tqdm
+numpy
